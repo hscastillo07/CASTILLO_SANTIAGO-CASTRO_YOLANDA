@@ -1,0 +1,13 @@
+[2024-05-21 20:41:57] [ INFO ] [OdontologoDaoH2:55] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES (DEFAULT,?,?,?,?) [21002-224]
+[2024-05-21 20:43:07] [ INFO ] [OdontologoDaoH2:55] Valor Invalido "4" para el parametro "parameterIndex"
+Invalid value "4" for parameter "parameterIndex" [90008-224]
+[2024-05-21 20:45:41] [ INFO ] [OdontologoDaoH2:41] Odontologo guardado: Odontologoid=3, matricula=11111, nombre='Juan', apellido='Perez'
+[2024-05-21 20:47:20] [ INFO ] [OdontologoDaoH2:41] Odontologo guardado: Odontologoid=3, matricula=11111, nombre='Juan', apellido='Perez'
+[2024-05-21 20:49:09] [ INFO ] [OdontologoDaoH2:41] Odontologo guardado: Odontologoid=3, matricula=11111, nombre='Juan', apellido='Perez'
+[2024-05-21 20:49:09] [ INFO ] [OdontologoServiceTest:41] [Odontologoid=1, matricula=5465657, nombre='Santiago', apellido='Castillo', Odontologoid=2, matricula=54546456, nombre='Luis', apellido='Gómez', Odontologoid=3, matricula=11111, nombre='Juan', apellido='Perez']
+[2024-05-21 21:07:47] [ INFO ] [OdontologoMemoria:21] odontologo guardado: Odontologoid=1, matricula=11111, nombre='Juan', apellido='Perez'
+[2024-05-21 21:07:47] [ INFO ] [OdontologoServiceTest:25] [Odontologoid=1, matricula=11111, nombre='Juan', apellido='Perez']
+[2024-05-21 21:08:02] [ INFO ] [OdontologoMemoria:21] odontologo guardado: Odontologoid=1, matricula=11111, nombre='Juan', apellido='Perez'
+[2024-05-21 21:08:02] [ INFO ] [OdontologoServiceTest:25] [Odontologoid=1, matricula=11111, nombre='Juan', apellido='Perez']
